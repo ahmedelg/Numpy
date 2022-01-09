@@ -1,5 +1,5 @@
 # Numpy
-`numpy` `__version__` `ndarray` `ndim` `copy` `view` `base` `shape` `reshape` `concatenate` `stack` `hstack` `vstack` `dstack` `where` `searchsorted` `sort` `filter` `arr[condition]` `array_split`
+`numpy` `__version__` `ndarray` `ndim` `copy` `view` `base` `shape` `reshape` `concatenate` `stack` `hstack` `vstack` `dstack` `where` `searchsorted` `sort` `filter` `arr[condition]` `array_split` `hsplit` `vsplit`
 > practice numpy
 
 ## Topics
