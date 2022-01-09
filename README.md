@@ -1,4 +1,5 @@
 # Numpy
+`numpy` `ndarray` `ndim` `copy` `view` `base` `shape` `reshape` 
 > practice numpy
 
 ## Topics
@@ -8,7 +9,7 @@
 4. ndim number of dimensions
 5. array indexing
 6. copies & views
-7. shape
+7. shape & reshape
 
 ## References
 * W3Schools https://www.w3schools.com/python/numpy/
